@@ -1,0 +1,14 @@
+---
+title: "session1"
+author: "Bokyung Kang"
+date: '2021 9 14 '
+output: html_document
+---
+
+
+```{r}
+library(tidyverse)
+library(quanteda)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
